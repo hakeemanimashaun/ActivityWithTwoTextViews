@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_with_two_buttons.xml" value="0.23385416666666667" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.14492753623188406" />
         <entry key="app/src/main/res/layout/fragment_fragmentone.xml" value="0.15081521739130435" />
       </map>
     </option>
